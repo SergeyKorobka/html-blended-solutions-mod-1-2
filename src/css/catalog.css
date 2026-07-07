@@ -9,6 +9,7 @@
 .catalog-card {
   background-color: #fbfbfb;
 }
+
 .catalog-card-title {
   font-weight: 500;
   font-size: 16px;
@@ -17,6 +18,7 @@
   text-transform: uppercase;
   color: #1b414b;
 }
+
 .catalog-card-type {
   font-size: 13px;
   line-height: 1.18;
@@ -31,6 +33,7 @@
   letter-spacing: 0.03em;
   color: #040306;
 }
+
 .catalog-card-label {
   text-transform: uppercase;
   color: #989899;
